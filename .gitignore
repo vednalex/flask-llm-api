@@ -13,3 +13,6 @@ __pycache__/
 
 # Mac system files
 .DS_Store
+
+test_document.txt
+*.txt
